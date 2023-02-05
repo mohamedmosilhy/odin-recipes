@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+}
+
+.headings{
+
+    color: orange;
+}
+
+.un_list{
+    font-size: 30px;
+    font-weight: 400;
+    list-style-position:inside;
+}
+
+.un_list.ing{
+    font-size:20px;
+}
+
+.orderd_list{
+    list-style-position:inside;
+}
+
+.links:hover{
+    color:orange;
+}
+
+.links:link{
+    color:white
+}
+
+img{
+    height: auto;
+    width: 800;
+}
