@@ -10,4 +10,5 @@ My first website contains several pages for some recipes their ingredients and s
 - practicing flexbox
 
 ## Visit The Site
-https://mohamedmosilhy.github.io/odin-recipes/
+https://mohamedmosilhy.github.io/odin-recipes-website/
+
